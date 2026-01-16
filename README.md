@@ -89,17 +89,16 @@ To pursue an **M.S. in Computer Science abroad**, specializing in **Artificial I
 
 ---
 
-## 📊 GitHub Analytics (Animated)
+## 📊 GitHub Analytics
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanthoshMR44&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshMR44&show_icons=true&theme=default" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=SanthoshMR44" height="165"/>
+</p>
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SanthoshMR44)
-
-### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshMR44&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshMR44&layout=compact" height="150"/>
+</p>
 
 ---
 
