@@ -23,7 +23,7 @@
 <!-- ██████████████████████ ABOUT ME — TERMINAL STYLE ██████████████████████ -->
 ## 🖥️ System Overview
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+<img align="right" width="360" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1sODVvajJsZWU2ejhkZGt6bjFoeDB6bW43OWh3czVnOXB4YjB4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZrZ14nCS90KXgOlCj/giphy.gif" alt="Coding GIF" />
 
 ```bash
 ┌──(santhosh㉿universe)-[~/life]
