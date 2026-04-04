@@ -1,331 +1,297 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a0a0a,50:111111,75:0a0a0a,100:000000&height=380&section=header&text=SANTHOSH%20MR&fontSize=90&fontColor=C9A84C&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Backend%20Architect%20%E2%80%94%20Cloud%20Systems&descSize=20&descColor=E8D5A3&descAlignY=63&stroke=C9A84C&strokeWidth=1&animation=fadeIn" />
+<!-- ██████████████████████ EPIC HEADER ██████████████████████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0010,30:1a0030,60:2d0050,100:0a0010&height=300&section=header&text=SANTHOSH%20MR&fontSize=78&fontColor=FFD700&fontAlignY=45&desc=%F0%9F%A4%96%20AI%2FML%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Cloud%20Architect&descSize=20&descColor=E8D5FF&descAlignY=65&animation=fadeIn" />
+
+<!-- TYPING ANIMATION — GOLD -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=FFD700&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Engineering+Intelligent+AI+Systems;%F0%9F%A7%A0+NLP+%7C+Computer+Vision+%7C+LLMs;%E2%98%81%EF%B8%8F+Google+Cloud+Arcade+Legend+%E2%80%94+85+Points;%F0%9F%94%AC+Research-Driven+Problem+Solver;%F0%9F%9A%80+FastAPI+%7C+Flask+%7C+Backend+at+Scale;%F0%9F%8F%86+ACT+3.0+Fellow+%7C+GFG+Campus+Mantri" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=15&duration=2400&pause=1000&color=C9A84C&center=true&vCenter=true&width=860&height=40&lines=Bioinformatics+%C2%B7+Healthcare+AI+%C2%B7+Explainable+Intelligence;LLMs+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+FastAPI+%C2%B7+Google+Cloud;Engineer+intelligent+systems%2C+not+just+projects." alt="Subtitle" />
-
-<br/><br/>
-
+<!-- STATUS BADGES -->
 <a href="https://github.com/SanthoshMR44">
-<img src="https://komarev.com/ghpvc/?username=SanthoshMR44&label=Profile+Views&color=C9A84C&style=flat-square&labelColor=111111"/>
+  <img src="https://komarev.com/ghpvc/?username=SanthoshMR44&label=Profile+Views&color=FFD700&style=for-the-badge&labelColor=1a0030" alt="Profile Views" />
 </a>
-&nbsp;
-<img src="https://img.shields.io/github/followers/SanthoshMR44?label=Followers&style=flat-square&color=C9A84C&logo=github&logoColor=C9A84C&labelColor=111111"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-C9A84C?style=flat-square&labelColor=111111"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-India-E8D5A3?style=flat-square&labelColor=111111"/>
+<img src="https://img.shields.io/github/followers/SanthoshMR44?label=Followers&style=for-the-badge&color=BF5FFF&logo=github&logoColor=white&labelColor=1a0030" alt="Followers" />
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-FF2D9B?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=1a0030" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Cloud-FFD700?style=for-the-badge&labelColor=1a0030" alt="Focus" />
 
 </div>
 
 ---
 
-<br/>
+<!-- ██████████████████████ ABOUT ME — TERMINAL STYLE ██████████████████████ -->
+## 🖥️ System Overview
 
-## `$ whoami`
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
-```python
-class SanthoshMR:
+```bash
+┌──(santhosh㉿universe)-[~/life]
+└─$ whoami
 
-    name        = "Santhosh MR"
-    role        = "AI/ML Engineer · Backend Architect · Cloud Innovator"
-    degree      = "B.Tech — Computer Science Engineering"
-    cgpa        = 7.55
-    languages   = ["Python", "Java", "C", "JavaScript", "HTML/CSS"]
-    spoken      = ["English", "Kannada", "Hindi", "Telugu"]
+  Name     : Santhosh MR
+  Role     : AI/ML Engineer | Backend Developer | Cloud Architect
+  Academia : B.Tech (CSE) | CGPA: 7.55
+  Focus    : Generative AI & Scalable AI Systems
+  Stack    : Python | FastAPI | Flask | GCP | OpenCV | LLMs
 
-    ai_stack    = ["Machine Learning", "NLP", "Computer Vision",
-                   "LLMs", "CNN", "SHAP (XAI)", "OpenCV", "TensorFlow"]
+┌──(santhosh㉿universe)-[~/life]
+└─$ cat mission.txt
 
-    backend     = ["FastAPI", "Flask", "REST APIs"]
+  → Engineering AI-based Healthcare De-Identification systems
+  → Building DNA Mutation Analysis with Explainable AI (SHAP)
+  → Developing AI-powered IVR & Conversational systems
+  → Architecting real-time Computer Vision proctoring tools
+  → Detecting early-stage Oral Cancer using CNN-based models
 
-    cloud       = ["Google Cloud Platform", "BigQuery", "Kubernetes",
-                   "Compute Engine", "Cloud Storage"]
+┌──(santhosh㉿universe)-[~/life]
+└─$ cat core_values.json
 
-    data        = ["Pandas", "NumPy", "Matplotlib", "Seaborn",
-                   "Feature Engineering", "MySQL"]
-
-    def mission(self):
-        return "Build systems that are not just functional — but intelligent."
+  {
+    "vision"    : "Don't just build projects — engineer intelligent systems.",
+    "languages" : ["English", "Kannada", "Hindi", "Telugu"],
+    "interests" : ["AI Innovation", "Competitive Coding",
+                   "Entrepreneurship", "Research"],
+    "learning"  : ["LLM Ops", "Multi-Agent AI", "Advanced CV"]
+  }
 ```
-
-<br/>
 
 ---
 
-## 💼 Experience
+<!-- ██████████████████████ EXPERIENCE ██████████████████████ -->
+## 💼 Professional Experience
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2024  ·  GOOGLE CLOUD ARCADE FACILITATOR                  [ Google Cloud ]
-           Arcade Legend — 85 Points — 433 Labs Completed
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2024  ·  AI + CLOUD INTERN                          [ IBM SkillsBuild / AICTE ]
-           Model Building, Evaluation & Production Deployment
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2024  ·  AI/ML & SOFTWARE DEVELOPMENT INTERN         [ Infosys Springboard ]
-           Real-world business AI case design and implementation
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2024  ·  AI ENGINEER INTERN                     [ Cognitva.ai · HackForHire ]
-           Production AI system development and deployment
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2025  ·  GFG CAMPUS MANTRI 2026                           [ GeeksForGeeks ]
-           Campus Lead · Developer Community Ambassador
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<div align="center">
 
-<br/>
+| PERIOD | ROLE | ORGANIZATION |
+|:---:|:---|:---|
+| `2024 - PRES` | **Google Cloud Arcade Facilitator 🏆** | **Google Cloud** |
+| `2024 - 2024` | **AI + Cloud Intern (AICTE Edunet)** | **IBM SkillsBuild** |
+| `2024 - 2024` | **AI/ML & Software Dev Intern** | **Infosys Springboard** |
+| `2024 - PRES` | **AI Engineer Intern** | **Cognitva.ai (HackForHire)** |
+| `2025 - PRES` | **GFG Campus Mantri 2026** | **GeeksForGeeks** |
+
+</div>
 
 ---
 
-## 🚀 Flagship Projects
+<!-- ██████████████████████ PROJECTS ██████████████████████ -->
+## 🔥 Flagship Deployments
 
-<br/>
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🏥 AI Healthcare Data De-Identification Engine
+`Python` • `OCR` • `NLP` • `FastAPI` • `JSON Pipelines`
+> *OCR + NLP for PHI detection. Generates structured JSON outputs with confidence scores — enabling secure, HIPAA-compliant medical data sharing.*
 
-### 🏥 Healthcare De-Identification AI
-OCR + NLP pipeline for PHI detection in medical records.  
-Structured JSON output with confidence scoring.  
-Designed for **HIPAA compliance** from the ground up.
+[![View Repo](https://img.shields.io/badge/ACCESS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://github.com/SanthoshMR44)
 
-`Python` `NLP` `OCR` `FastAPI` `Regex` `spaCy`
+---
 
-[![Repo](https://img.shields.io/badge/→%20View%20Repository-C9A84C?style=flat-square&logo=github&logoColor=black&labelColor=111111)](https://github.com/SanthoshMR44)
+### 🧬 Bioinformatics Mutation Analysis + Explainable AI
+`Python` • `ML` • `SHAP` • `FastAPI` • `Bioinformatics`
+> *DNA mutation detection using ML with integrated SHAP explainability. FastAPI-based backend delivering transparent, interpretable genomic insights.*
 
-</td>
-<td width="50%" valign="top">
+[![View Repo](https://img.shields.io/badge/ACCESS_REPO-BF5FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanthoshMR44)
 
-### 🧬 Bioinformatics + Explainable AI
-DNA mutation detection with ML classifiers.  
-**SHAP-powered** model transparency for clinical trust.  
-FastAPI backend for interpretable genomic insights.
-
-`Python` `ML` `SHAP` `FastAPI` `Biopython` `Pandas`
-
-[![Repo](https://img.shields.io/badge/→%20View%20Repository-C9A84C?style=flat-square&logo=github&logoColor=black&labelColor=111111)](https://github.com/SanthoshMR44)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 📞 AI Conversational IVR System
-Real-time voice AI: **STT → NLP → TTS** pipeline.  
-Fully automated intelligent call handling.  
-Zero human dependency architecture.
+`Python` • `STT` • `NLP` • `TTS` • `Real-Time Processing`
+> *Speech-to-Text + NLP + Text-to-Speech pipeline for real-time voice interaction and automated intelligent call handling.*
 
-`Python` `Speech AI` `NLP` `TTS` `FastAPI`
-
-[![Repo](https://img.shields.io/badge/→%20View%20Repository-C9A84C?style=flat-square&logo=github&logoColor=black&labelColor=111111)](https://github.com/SanthoshMR44)
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ AI Exam Proctoring System
-OpenCV-based offline proctoring system.  
-Detects gaze deviation and multiple face instances.  
-**Privacy-first** — zero cloud dependency.
-
-`Python` `OpenCV` `Computer Vision` `dlib` `MediaPipe`
-
-[![Repo](https://img.shields.io/badge/→%20View%20Repository-C9A84C?style=flat-square&logo=github&logoColor=black&labelColor=111111)](https://github.com/SanthoshMR44)
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" valign="top" colspan="2">
-
-### 🧪 Oral Cancer Early Detection System
-CNN-based deep learning classifier for early-stage oral cancer detection.  
-Trained on medical imaging datasets with web-based visualization interface.  
-Built to assist clinical screening workflows in low-resource settings.
-
-`Python` `TensorFlow` `CNN` `Deep Learning` `Web UI` `Flask`
-
-[![Repo](https://img.shields.io/badge/→%20View%20Repository-C9A84C?style=flat-square&logo=github&logoColor=black&labelColor=111111)](https://github.com/SanthoshMR44)
-
-</td>
-</tr>
-</table>
-
-<br/>
+[![View Repo](https://img.shields.io/badge/ACCESS_REPO-FF2D9B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanthoshMR44)
 
 ---
 
-## 🛠️ Tech Arsenal
+### 👁️ AI Exam Cheating Detection System
+`Python` • `OpenCV` • `Computer Vision` • `Privacy-First`
+> *OpenCV-based offline proctoring: detects gaze deviation & multiple faces. Zero cloud dependency — fully local and privacy-focused.*
 
-<br/>
-
-**Languages & Backend**
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=C9A84C)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=E8D5A3)
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=E8D5A3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=C9A84C)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=C9A84C)
-![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=E8D5A3)
-![REST](https://img.shields.io/badge/REST%20API-111111?style=flat-square&logo=postman&logoColor=E8D5A3)
-
-**AI / Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=C9A84C)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikit-learn&logoColor=E8D5A3)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv&logoColor=C9A84C)
-![NLP](https://img.shields.io/badge/NLP-111111?style=flat-square&logoColor=E8D5A3)
-![LLMs](https://img.shields.io/badge/LLMs-111111?style=flat-square&logo=openai&logoColor=C9A84C)
-![SHAP XAI](https://img.shields.io/badge/SHAP%20XAI-111111?style=flat-square&logo=python&logoColor=E8D5A3)
-![CNN](https://img.shields.io/badge/CNN-111111?style=flat-square&logoColor=C9A84C)
-
-**Cloud & DevOps**
-
-![GCP](https://img.shields.io/badge/Google%20Cloud-111111?style=flat-square&logo=googlecloud&logoColor=C9A84C)
-![BigQuery](https://img.shields.io/badge/BigQuery-111111?style=flat-square&logo=googlebigquery&logoColor=E8D5A3)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=C9A84C)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=E8D5A3)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=C9A84C)
-
-**Data & Databases**
-
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=C9A84C)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=E8D5A3)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=flat-square&logo=python&logoColor=C9A84C)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=E8D5A3)
-![Seaborn](https://img.shields.io/badge/Seaborn-111111?style=flat-square&logoColor=C9A84C)
-
-<br/>
+[![View Repo](https://img.shields.io/badge/ACCESS_REPO-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanthoshMR44)
 
 ---
 
-## 📊 GitHub Metrics
+### 🧪 Oral Cancer Detection System
+`Python` • `CNN` • `Deep Learning` • `Medical AI` • `Web UI`
+> *CNN-based classification for early-stage oral cancer detection with a web-based medical visualization interface.*
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshMR44&bg_color=0a0a0a&color=C9A84C&line=C9A84C&point=E8D5A3&area_color=1a1a0a&area=true&hide_border=true&custom_title=Contribution+Activity" width="100%" alt="Contribution Graph"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SanthoshMR44&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=C9A84C&text_color=E8D5A3&icon_color=C9A84C&border_color=2a2a1a&hide_border=false&rank_icon=github" height="160" alt="Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshMR44&layout=compact&theme=dark&bg_color=0a0a0a&title_color=C9A84C&text_color=E8D5A3&border_color=2a2a1a&hide_border=false" height="160" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SanthoshMR44&theme=dark&background=0a0a0a&ring=C9A84C&fire=E8D5A3&currStreakLabel=C9A84C&sideLabels=E8D5A3&dates=888888&border=2a2a1a" alt="Streak Stats"/>
+[![View Repo](https://img.shields.io/badge/ACCESS_REPO-00E5CC?style=for-the-badge&logo=github&logoColor=000)](https://github.com/SanthoshMR44)
 
 </div>
 
-<br/>
-
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<br/>
-
-![GCP](https://img.shields.io/badge/☁%20GCP%20Arcade%20Legend-85%20Points%20·%20433%20Labs-C9A84C?style=flat-square&labelColor=111111)
-&nbsp;
-![ACT](https://img.shields.io/badge/ACT%203.0%20Fellow-Startup%20Innovation%20Track-E8D5A3?style=flat-square&labelColor=111111)
-
-<br/>
-
-![GFG](https://img.shields.io/badge/GFG%20Campus%20Mantri-2026-C9A84C?style=flat-square&labelColor=111111)
-&nbsp;
-![IIT](https://img.shields.io/badge/IIT%20Kanpur-E--Cell%20Ambassador-E8D5A3?style=flat-square&labelColor=111111)
-
-<br/>
-
-![SIH](https://img.shields.io/badge/Smart%20India%20Hackathon-National%20Participant-C9A84C?style=flat-square&labelColor=111111)
-&nbsp;
-![Aptitude](https://img.shields.io/badge/Aptitude%20Championship-3rd%20Place-E8D5A3?style=flat-square&labelColor=111111)
-&nbsp;
-![Cognitva](https://img.shields.io/badge/HackForHire-Cognitva.ai%20Intern-C9A84C?style=flat-square&labelColor=111111)
-
-</div>
-
-<br/>
-
----
-
+<!-- ██████████████████████ ACADEMICS ██████████████████████ -->
 ## 🎓 Academic Foundation
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║   B.Tech — Computer Science Engineering                                  ║
-║   CGPA : 7.55  ·  Status : Active                                       ║
-║   Core : DSA  ·  OS  ·  DBMS  ·  Networks  ·  AI  ·  ML               ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║   CERTIFICATIONS                                                         ║
-║   ✦  IBM AI Fundamentals                                                 ║
-║   ✦  NPTEL — Data Analytics with Python                                  ║
-║   ✦  Unix Fundamentals — Infosys Springboard                             ║
-║   ✦  Prompt Engineering — IBM SkillsBuild                                ║
-║   ✦  Data Structures — LinkedIn Learning                                 ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+```bash
+┌──(santhosh㉿universe)-[~/academia]
+└─$ ls -l
 
-<br/>
+  - Bachelor of Technology in Computer Science Engineering
+    - Status  : CGPA 7.55 | ACTIVE
+    - Courses : DSA | OS | DBMS | Computer Networks | AI | ML
+
+┌──(santhosh㉿universe)-[~/certifications]
+└─$ cat certs.txt
+
+  ✔ IBM AI Fundamentals
+  ✔ NPTEL — Data Analytics with Python
+  ✔ Unix Fundamentals — Infosys Springboard
+  ✔ Prompt Engineering — IBM SkillsBuild
+  ✔ Data Structures — LinkedIn Learning
+```
 
 ---
 
+<!-- ██████████████████████ ACHIEVEMENTS ██████████████████████ -->
+## 🏆 Hall of Achievements
+
+<div align="center">
+
+| AWARD | TITLE | BODY |
+|:---:|:---|:---|
+| 🥇 | **ACT 3.0 Fellow** | Startup Innovation Program |
+| 🎓 | **GFG Campus Mantri 2026** | GeeksForGeeks Campus Lead |
+| 🚀 | **IIT Kanpur E-Cell Ambassador** | IIT Kanpur Entrepreneurship Cell |
+| 🥉 | **3rd Place — Aptitude Test** | Technical Competition |
+| 🏁 | **Smart India Hackathon Participant** | National Level Hackathon |
+| ⚡ | **Google Cloud Arcade Legend** | 85 Points · 433 Labs Completed |
+| 💼 | **HackForHire Internship** | Cognitva.ai |
+
+</div>
+
+---
+
+<!-- ██████████████████████ TECH STACK ██████████████████████ -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**⚡ Languages & Backend**
+
+![Python](https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&logoColor=000)
+![Java](https://img.shields.io/badge/Java-FF8C00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-BF5FFF?style=flat-square&logo=c&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00E5CC?style=flat-square&logo=fastapi&logoColor=000)
+![Flask](https://img.shields.io/badge/Flask-E8D5FF?style=flat-square&logo=flask&logoColor=000)
+![REST API](https://img.shields.io/badge/REST%20API-FF2D9B?style=flat-square&logo=postman&logoColor=white)
+
+**🤖 AI / Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8C00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-FFD700?style=flat-square&logo=scikit-learn&logoColor=000)
+![OpenCV](https://img.shields.io/badge/OpenCV-BF5FFF?style=flat-square&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00E5CC?style=flat-square&logo=spacy&logoColor=000)
+![LLMs](https://img.shields.io/badge/LLMs-FF2D9B?style=flat-square&logo=openai&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP%20XAI-FF8C00?style=flat-square&logo=python&logoColor=white)
+
+**☁️ Cloud & DevOps**
+
+![GCP](https://img.shields.io/badge/Google%20Cloud-FFD700?style=flat-square&logo=googlecloud&logoColor=000)
+![BigQuery](https://img.shields.io/badge/BigQuery-BF5FFF?style=flat-square&logo=googlebigquery&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00E5CC?style=flat-square&logo=kubernetes&logoColor=000)
+![Git](https://img.shields.io/badge/Git-FF8C00?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFD700?style=flat-square&logo=linux&logoColor=000)
+
+**📊 Data & Databases**
+
+![Pandas](https://img.shields.io/badge/Pandas-BF5FFF?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-00E5CC?style=flat-square&logo=numpy&logoColor=000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF8C00?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=flat-square&logo=mysql&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-FF2D9B?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-BF5FFF?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=000)
+
+</div>
+
+---
+
+<!-- ██████████████████████ STATS ██████████████████████ -->
+## 📊 System Metrics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshMR44&theme=tokyo-night&bg_color=0a0010&color=FFD700&line=BF5FFF&point=FF2D9B&area=true&hide_border=true" alt="Activity Graph" />
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-★★★★★-FFD700?style=for-the-badge&logo=python&logoColor=black&labelColor=1a0030)
+![Java](https://img.shields.io/badge/Java-★★★★☆-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0030)
+![C](https://img.shields.io/badge/C-★★★★☆-BF5FFF?style=for-the-badge&logo=c&logoColor=white&labelColor=1a0030)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-★★★☆☆-FF2D9B?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a0030)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-FFD700?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a0030)
+![SQL](https://img.shields.io/badge/SQL-★★★★☆-00E5CC?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0030)
+
+</div>
+
+---
+
+<!-- ██████████████████████ TROPHIES ██████████████████████ -->
+## 🏆 Trophy Case
+
+<div align="center">
+
+![GCP](https://img.shields.io/badge/Google%20Cloud%20Arcade%20Legend-85%20Points-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black&labelColor=1a0030)
+![Labs](https://img.shields.io/badge/Labs%20Completed-433-BF5FFF?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a0030)
+![ACT](https://img.shields.io/badge/ACT%203.0%20Fellow-Startup%20Innovation-FF2D9B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a0030)
+![GFG](https://img.shields.io/badge/GFG%20Campus%20Mantri-2026-00E5CC?style=for-the-badge&logo=geeksforgeeks&logoColor=black&labelColor=1a0030)
+
+![IIT](https://img.shields.io/badge/IIT%20Kanpur-E--Cell%20Ambassador-FF8C00?style=for-the-badge&logo=academia&logoColor=white&labelColor=1a0030)
+![SIH](https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a0030)
+![Aptitude](https://img.shields.io/badge/Aptitude%20Test-3rd%20Place%20%F0%9F%A5%89-BF5FFF?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1a0030)
+![Cognitva](https://img.shields.io/badge/HackForHire%20Intern-Cognitva.ai-FF2D9B?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1a0030)
+
+</div>
+
+---
+
+<!-- ██████████████████████ SNAKE ██████████████████████ -->
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanthoshMR44/SanthoshMR44/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanthoshMR44/SanthoshMR44/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake" src="https://raw.githubusercontent.com/SanthoshMR44/SanthoshMR44/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanthoshMR44/SanthoshMR44/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanthoshMR44/SanthoshMR44/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/SanthoshMR44/SanthoshMR44/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
-<br/>
-
 ---
 
-## 📬 Connect
+<!-- ██████████████████████ GET IN TOUCH ██████████████████████ -->
+## 📬 Get In Touch
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/santhosh-mr-530928300)
+[![Gmail](https://img.shields.io/badge/Gmail-FF2D9B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshmr418@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BF5FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanthoshMR44)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E5CC?style=for-the-badge&logo=netlify&logoColor=000)](https://astounding-otter-9d13a9.netlify.app/)
+
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh%20MR-C9A84C?style=flat-square&logo=linkedin&logoColor=C9A84C&labelColor=111111)](https://www.linkedin.com/in/santhosh-mr-530928300)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-santhoshmr418%40gmail.com-E8D5A3?style=flat-square&logo=gmail&logoColor=E8D5A3&labelColor=111111)](mailto:santhoshmr418@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-SanthoshMR44-C9A84C?style=flat-square&logo=github&logoColor=C9A84C&labelColor=111111)](https://github.com/SanthoshMR44)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-astounding--otter-E8D5A3?style=flat-square&logo=netlify&logoColor=E8D5A3&labelColor=111111)](https://astounding-otter-9d13a9.netlify.app/)
-
-<br/><br/>
-
-```
-India  ·  English · Kannada · Hindi · Telugu  ·  Always Building
-```
+**Location:** India &nbsp;|&nbsp; **Languages:** English · Kannada · Hindi · Telugu &nbsp;|&nbsp; **Mode:** 🚀 Always Building
 
 </div>
 
 ---
 
+<!-- ██████████████████████ FOOTER ██████████████████████ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a0a,100:000000&height=2&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0030,50:2d0050,100:1a0030&height=130&section=footer&text=ENGINEER%20INTELLIGENT%20SYSTEMS&fontSize=38&fontColor=FFD700&animation=fadeIn&stroke=BF5FFF&strokeWidth=2" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=3500&pause=1200&color=C9A84C&center=true&vCenter=true&width=700&lines=Solve+real-world+problems+at+scale.;Research+driven.+Impact+focused.;Stay+curious.+Stay+relentless." alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+SOLVE+REAL-WORLD+PROBLEMS+AT+SCALE;%F0%9F%92%A1+RESEARCH+DRIVEN.+IMPACT+FOCUSED.;%F0%9F%94%A5+STAY+CURIOUS.+STAY+RELENTLESS." alt="Footer Typing" />
 
 <br/>
 
-<sub><b>Engineered with precision by Santhosh MR</b></sub>
+<sub><b>✨ Crafted with absolute precision by Santhosh MR ✨</b></sub>
 
 </div>
