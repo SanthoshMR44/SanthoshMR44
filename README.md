@@ -184,6 +184,9 @@
   <a href="https://github.com/SanthoshMR44">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
+<a href="https://astounding-otter-9d13a9.netlify.app/">
+  <img src="https://img.shields.io/badge/My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 ---
