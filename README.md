@@ -23,44 +23,59 @@
 
 ---
 
-# ⚙️ Tech Stack
+# ⚡ Tech Stack (Modern & Industry-Oriented)
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java)
-
-### 🌐 Web & Backend
-![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
-![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-111?style=for-the-badge&logo=javascript)
-
-### 🤖 AI / ML
-![ML](https://img.shields.io/badge/Machine%20Learning-111?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-111?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/OpenCV-111?style=for-the-badge&logo=opencv)
-![LLMs](https://img.shields.io/badge/LLMs-111?style=for-the-badge)
-
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-111?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-111?style=for-the-badge)
-
-### 🗄️ Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111?style=for-the-badge&logo=googlecloud)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-![Jupyter](https://img.shields.io/badge/Jupyter-111?style=for-the-badge&logo=jupyter)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,fastapi,flask,html,css,js,mysql,git,github,linux" />
+</p>
 
 ---
 
+## 🧠 AI / Machine Learning
+- Machine Learning (Model Building, Evaluation, Deployment)
+- Natural Language Processing (NLP)
+- Computer Vision (OpenCV)
+- Large Language Models (LLMs)
+- Explainable AI (SHAP)
+
+---
+
+## ⚙️ Backend & System Design
+- FastAPI (High-performance APIs)
+- Flask (Lightweight backend services)
+- REST API Development
+- JSON-based Data Pipelines
+
+---
+
+## ☁️ Cloud & DevOps
+- Google Cloud Platform (GCP)
+  - Compute Engine
+  - Cloud Storage
+  - BigQuery
+  - Kubernetes (Basics)
+- Git & GitHub (Version Control)
+- Linux / UNIX Shell (Bash)
+
+---
+
+## 📊 Data & Analytics
+- Pandas, NumPy (Data Processing)
+- Matplotlib, Seaborn (Visualization)
+- Data Cleaning & Feature Engineering
+
+---
+
+## 🗄️ Databases
+- MySQL (Relational Database Design & Queries)
+
+---
+
+## 🧩 Core CS Fundamentals
+- Data Structures & Algorithms (DSA)
+- Operating Systems
+- Computer Networks
+- DBMS Concepts
 # 🚀 Projects (Highlighted)
 
 ## 🏥 AI-Based Healthcare Data De-Identification Engine
