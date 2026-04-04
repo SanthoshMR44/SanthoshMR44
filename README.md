@@ -214,12 +214,20 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanthoshMR44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7b2fff&text_color=FFFFFF&cache_seconds=1800&count_private=true" alt="Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshMR44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&cache_seconds=1800&langs_count=8" alt="Top Langs" />
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=SanthoshMR44&cc=0D1117&tc=00F7FF&ic=7b2fff&bc=0D1117" alt="Stats" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshMR44&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=7b2fff&point=ff2d78&area=true&hide_border=true" alt="Activity Graph" />
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
+![C](https://img.shields.io/badge/C-★★★★☆-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-★★★☆☆-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+![SQL](https://img.shields.io/badge/SQL-★★★★☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
 
 </div>
 
