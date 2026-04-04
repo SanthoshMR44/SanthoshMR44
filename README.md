@@ -214,12 +214,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanthoshMR44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7b2fff&text_color=FFFFFF" alt="Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshMR44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanthoshMR44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7b2fff&text_color=FFFFFF&cache_seconds=1800&count_private=true" alt="Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshMR44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&cache_seconds=1800&langs_count=8" alt="Top Langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SanthoshMR44&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=ff2d78&currStreakLabel=00F7FF" alt="Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshMR44&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=7b2fff&point=ff2d78&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -230,7 +230,15 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SanthoshMR44&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4" alt="Trophies" />
+![GCP](https://img.shields.io/badge/Google%20Cloud%20Arcade%20Legend-85%20Points-00F7FF?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117)
+![Labs](https://img.shields.io/badge/Labs%20Completed-433-7b2fff?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117)
+![ACT](https://img.shields.io/badge/ACT%203.0%20Fellow-Startup%20Innovation-ff2d78?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117)
+![GFG](https://img.shields.io/badge/GFG%20Campus%20Mantri-2026-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117)
+
+![IIT](https://img.shields.io/badge/IIT%20Kanpur-E--Cell%20Ambassador-FFE600?style=for-the-badge&logo=academia&logoColor=black&labelColor=0D1117)
+![SIH](https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-F05032?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117)
+![Aptitude](https://img.shields.io/badge/Aptitude%20Test-3rd%20Place%20%F0%9F%A5%89-3DDC97?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0D1117)
+![Cognitva](https://img.shields.io/badge/HackForHire%20Intern-Cognitva.ai-00C7B7?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0D1117)
 
 </div>
 
