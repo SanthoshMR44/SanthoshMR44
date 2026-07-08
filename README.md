@@ -238,7 +238,6 @@
 
 <br/>
 
-*All analytics cards are rendered with a fixed dark `bg_color`, so they display identically whether your GitHub profile theme is set to light or dark.*
 
 </div>
 
